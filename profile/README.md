@@ -10,7 +10,7 @@ At ExpressTech, we understand the importance of data mobility in today's fast-pa
 Our approach is not just about migration; it's about empowering small business owners with the tools and knowledge to manage their digital presence effectively.
 
 👩‍💻 Useful Resources
-To support our community, we have developed a range of resources:
+To support our community, we have developed a range of resources: our plugins has recieved a total of 30,000 downloads till date !
 Discord Integration: We're excited to share our latest development – Discord integrations! Now, stay connected and automate workflows seamlessly.
 
 Stay updated with our latest advancements and share your experiences with our community.
