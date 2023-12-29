@@ -3,7 +3,7 @@
 Welcome to ExpressTech Software Solution Pvt Ltd
 
 🙋‍♀️ Introduction
-Welcome to ExpressTech Software Solution Pvt Ltd, co-founded by Ravi Soni. We are a dynamic team based in Indore, India, specializing in the art of digital transformation and data liberation. Our primary focus is on facilitating seamless website rebuilding and migration, with a particular emphasis on WordPress.
+Welcome to ExpressTech Software Solution Pvt Ltd, co-founded by Ravi Soni and Sunny Soni. We are a dynamic team based in Indore, India, specializing in the art of digital transformation and data liberation. Our primary focus is on facilitating seamless website rebuilding and migration, with a particular emphasis on WordPress.
 
 At ExpressTech, we understand the importance of data mobility in today's fast-paced digital world. That's why we offer expert solutions in migrating websites from various platforms like GumRoad and Wix to WordPress. Additionally, we specialize in data migration between different plugin solutions, ensuring smooth transitions from services like mempress to pmpro or gumroad to pmpro.
 
